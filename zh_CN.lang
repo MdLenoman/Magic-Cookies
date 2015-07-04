@@ -122,18 +122,18 @@ tile.MagicIce.name=魔法冰块
 tile.PuppyBloodSpatters.name=幼犬血迹
 tile.VoidBlock.name=虚空金属块
 tile.VoidManipulator.0.name=约束虚空水晶
-tile.fenceGold.name=金栅栏
-tile.fenceGoldDiamondStudded.name=镶钻石金栅栏
-tile.fenceGoldEmeraldStudded.name=镶绿宝石金栅栏
-tile.fenceThaumium.name=神秘栅栏
-tile.fenceVoidMetal.name=虚空金属栅栏
+tile.fenceGold.name=金栏杆
+tile.fenceGoldDiamondStudded.name=金镶钻石栏杆
+tile.fenceGoldEmeraldStudded.name=金镶绿宝石栏杆
+tile.fenceThaumium.name=神秘栏杆
+tile.fenceVoidMetal.name=虚空金属栏杆
 tile.MCLadders.0.name=金楼梯
 tile.MCLadders.4.name=铁楼梯
 tile.MCLadders.8.name=神秘楼梯
 tile.MCLadders.12.name=虚空金属楼梯
 tile.doorGold.name=金门
 tile.blockDarkStone.0.name=黑暗石砖
-tile.blockDarkStone.1.name=Acid Corroded Matter
+tile.blockDarkStone.1.name=酸蚀物质
 tile.blockDarkStone.2.name=黑暗裂石砖
 tile.blockDarkStone.3.name=黑暗圆石
 tile.blockDarkStone.4.name=Slightly Blood Stained Cobblestone
@@ -143,27 +143,27 @@ tile.blockDarkStone.7.name=Moderately Blood Drenched Cobblestone
 tile.blockDarkStone.8.name=Largely Blood Drenched Cobblestone
 tile.blockDarkStone.9.name=Completely Blood Drenched Cobblestone
 tile.blockDarkStone.10.name=Mottled Cobblestone
-tile.blockDarkStone.11.name=Etched Iron
+tile.blockDarkStone.11.name=蚀刻铁块
 tile.blockDechantmentTable.name=Dechantment Table
-tile.BlockSemiLiquidContainer.0.name=QuickSilver Container
+tile.BlockSemiLiquidContainer.0.name=水银储箱
 
 #walls
-tile.BloodyWall.0.name=Dark Brick Wall
-tile.BloodyWall.1.name=Acid Etched Matter Wall
-tile.BloodyWall.2.name=Cracked Dark Brick Wall
-tile.BloodyWall.3.name=Dark Cobblestone Wall
-tile.BloodyWall.4.name=Etched Iron Wall
+tile.BloodyWall.0.name=黑暗石砖墙
+tile.BloodyWall.1.name=酸蚀物质墙
+tile.BloodyWall.2.name=黑暗裂石砖墙
+tile.BloodyWall.3.name=黑暗圆石墙
+tile.BloodyWall.4.name=蚀刻铁块墙
 
 
 #Fences
-tile.DarkFences.0.name=Dark Brick Fence
-tile.DarkFences.1.name=Acid Etched Matter Fence
-tile.DarkFences.2.name=Cracked Dark Brick Fence
-tile.DarkFences.3.name=Dark Cobblestone Fence
-tile.DarkFences.4.name=Etched Iron Fence
+tile.DarkFences.0.name=黑暗石砖栅栏
+tile.DarkFences.1.name=酸蚀物质栅栏
+tile.DarkFences.2.name=黑暗裂石砖栅栏
+tile.DarkFences.3.name=黑暗圆石栅栏
+tile.DarkFences.4.name=蚀刻铁块栅栏
 
 #stairs
-tile.blockSomethingSomethingStairs.name=Etched Iron Stairs
+tile.blockSomethingSomethingStairs.name=蚀刻铁块楼梯
 tile.blockBloodDrenchedCobble1Stairs.name=Slightly Blood Stained Cobblestone Stairs
 tile.blockBloodDrenchedCobble2Stairs.name=Moderately Blood Stained Cobblestone Stairs
 tile.blockBloodDrenchedCobble3Stairs.name=Largely Blood Stained Cobblestone Stairs
@@ -171,18 +171,18 @@ tile.blockBloodDrenchedCobble4Stairs.name=Moderately Blood Drenched Cobblestone 
 tile.blockBloodDrenchedCobble5Stairs.name=Largely Blood Drenched Cobblestone Stairs
 tile.blockBloodDrenchedCobble6Stairs.name=Completely Blood Drenched Cobblestone Stairs
 tile.blockCobbleMottledStairs.name=Mottled Cobblestone Stairs
-tile.blockOldDarkCobbleStoneStairs.name=Dark Cobblestone Stairs
-tile.blockOldDarkStoneStairs.name=Cracked Dark Brick Stairs
-tile.blockCrackedEerieStoneStairs.name=Acid Corroded Matter Stairs
-tile.blockDarkStoneStairs.name=Dark Brick Stairs
+tile.blockOldDarkCobbleStoneStairs.name=黑暗圆石楼梯
+tile.blockOldDarkStoneStairs.name=黑暗裂石砖楼梯
+tile.blockCrackedEerieStoneStairs.name=酸蚀物质楼梯
+tile.blockDarkStoneStairs.name=黑暗石砖楼梯
 
 #slabs
-tile.DarkStoneDoubleSlab.darkStone.name=Dark Brick Slab
-tile.DarkStoneDoubleSlab.crackedEerie.name=Acid Corroded Matter Slab
-tile.DarkStoneDoubleSlab.oldDarkStone.name=Cracked Dark Brick Slab
-tile.DarkStoneDoubleSlab.darkcobblestones.name=Dark Cobblestone Slab
+tile.DarkStoneDoubleSlab.darkStone.name=黑暗石砖台阶
+tile.DarkStoneDoubleSlab.crackedEerie.name=酸蚀物质台阶
+tile.DarkStoneDoubleSlab.oldDarkStone.name=黑暗裂石砖台阶
+tile.DarkStoneDoubleSlab.darkcobblestones.name=黑暗圆石台阶
 tile.DarkStoneDoubleSlab.mottledstone.name=Mottled Cobblestone Slab
-tile.DarkStoneDoubleSlab.somethingsomething.name=Etched Iron Slab
+tile.DarkStoneDoubleSlab.somethingsomething.name=蚀刻铁块台阶
 tile.BloodyCobbleDoubleSlab.bloodycobble1.name=Slightly Blood Stained Cobblestone Slab
 tile.BloodyCobbleDoubleSlab.bloodycobble2.name=Moderately Blood Stained Cobblestone Slab
 tile.BloodyCobbleDoubleSlab.bloodycobble3.name=Largely Blood Stained Cobblestone Slab
@@ -192,11 +192,11 @@ tile.BloodyCobbleDoubleSlab.bloodycobble6.name=Completely Blood Drenched Cobbles
 
 
 #plants
-tile.SimplePlant.0.name=Hell Bloom
+tile.SimplePlant.0.name=地狱花
 tile.SimplePlant.1.name=Soul Sap
 
 # Magic Cookie Thaumonomicion entries
-tc.research_category.DARKSIDE=The Dark Side
+tc.research_category.DARKSIDE=暗面
 
 # Ice cage focus
 tc.research_name.FOCUSICECAGE=Wand Focus: Heart of Ice
